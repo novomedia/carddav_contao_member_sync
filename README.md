@@ -16,6 +16,12 @@ Installation
 - Run by browser
 - OR by cronjob with the following parameters: ?action=run&mode=cron
 
+License
+-------
+
+CardDAV Contao Member Sync is licensed under the terms of the LGPLv3.
+
+
 Credits
 -------
 
