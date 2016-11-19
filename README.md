@@ -20,7 +20,7 @@ License
 -------
 
 CardDAV Contao Member Sync is licensed under the terms of the LGPLv3.
-
+The script was developed by [Contao Agentur novo.media](http://www.novo-online.de).
 
 Credits
 -------
@@ -30,3 +30,4 @@ https://github.com/graviox/CardDAV-PHP?source=c
 
 vCard-parser: Martins Pilsetnieks, Roberts Bruveris
 https://github.com/nuovo/vCard-parser
+
